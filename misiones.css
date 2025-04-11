@@ -4,8 +4,48 @@ a {
     display: inline-block;
     background-color: rgb(52, 67, 109);
     padding: 10px;
-    border-radius: 3%;
+    border-radius: 30%;
 }
 a:hover {
-    background-color: rgb(116, 142, 165);
+    background-color: rgb(43, 79, 110);
+}
+
+h1{
+    color: rgb(167, 198, 224);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif      ;
+    font-size: 2cm;
+    text-align: center;
+    padding: 1%;
+}
+
+h2{
+    color: rgb(144, 183, 218);
+    font-size: 0.65cm;
+
+}
+
+h3{
+    color: aliceblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif      ;
+    font-size: 1cm;
+}
+
+p1{
+    color: rgb(119, 171, 216);
+    font-size: 0.70cm;
+    
+}
+
+p{
+    color: rgb(208, 225, 240);
+    font-size: 0.50cm;
+    
+}
+
+a1{
+    color: rgb(9, 20, 31);
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgb(155, 167, 199);
+    padding: 10px;
 }

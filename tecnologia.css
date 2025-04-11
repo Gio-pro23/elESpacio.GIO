@@ -4,8 +4,25 @@ a {
     display: inline-block;
     background-color: rgb(52, 67, 109);
     padding: 10px;
-    border-radius: 3%;
+    border-radius: 30%;
 }
 a:hover {
     background-color: rgb(116, 142, 165);
+}
+
+h1{
+    font-size: 2cm;
+}
+
+
+h3{
+    font-size: 0.99cm;
+}
+h2{
+    font-size: 0.90cm;
+}
+
+li{
+    color: rgb(87, 153, 214);
+    font-size: 0.60cm;
 }

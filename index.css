@@ -2,10 +2,19 @@ a {
     color: rgb(6, 18, 29);
     text-decoration: none;
     display: inline-block;
-    background-color: rgb(52, 67, 109);
+    background-color: rgb(93, 103, 131);
     padding: 10px;
-    border-radius: 3%;
+    border-radius: 30%;
 }
 a:hover {
     background-color: rgb(116, 142, 165);
+}
+
+h1{
+    font-size: 3cm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif      ;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
