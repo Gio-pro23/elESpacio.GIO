@@ -5,9 +5,11 @@ a {
     background-color: rgb(52, 67, 109);
     padding: 10px;
     border-radius: 30%;
+   
 }
 a:hover {
     background-color: rgb(116, 142, 165);
+    size: 0.80cm;
 }
 
 h1{

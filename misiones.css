@@ -8,6 +8,7 @@ a {
 }
 a:hover {
     background-color: rgb(43, 79, 110);
+    size: 0.80cm;
 }
 
 h1{
